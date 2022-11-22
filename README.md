@@ -1,4 +1,4 @@
-# Project : Template
+# Project : FireBlogApp
 
 ## Check The Live Website ➡️ [Live Website](https://skycooper.github.io)
 
@@ -125,7 +125,7 @@ You can see the visual representation of the website above.
 
 ## Contributing
 
-- Fork it (https://github.com/SkyCooper/RecipeAppReactStyledComponent)
+- Fork it (https://github.com/SkyCooper/FireBlogApp)
 
 - Create your feature branch (git checkout -b feature/fooBar)
 
