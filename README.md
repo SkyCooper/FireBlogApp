@@ -75,8 +75,6 @@ Project(folder)
 
 - axios
 
-- https://api.edamam.com/search?q=${food}&app_id=${appID}&app_key=${appKey}&mealType=${mealType}
-
 - react-bootstrap, bootstrap
 
 ### Overview
